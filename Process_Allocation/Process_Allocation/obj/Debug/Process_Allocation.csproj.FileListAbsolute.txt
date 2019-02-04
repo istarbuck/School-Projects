@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Sullivan Win2011\CSC303\Process_Allocation\Process_Allocation\bin\Debug\Process_Allocation.exe
+C:\Users\Ivan\Documents\Sullivan Win2011\CSC303\Process_Allocation\Process_Allocation\bin\Debug\Process_Allocation.pdb
+C:\Users\Ivan\Documents\Sullivan Win2011\CSC303\Process_Allocation\Process_Allocation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Sullivan Win2011\CSC303\Process_Allocation\Process_Allocation\obj\Debug\Process_Allocation.exe
+C:\Users\Ivan\Documents\Sullivan Win2011\CSC303\Process_Allocation\Process_Allocation\obj\Debug\Process_Allocation.pdb
